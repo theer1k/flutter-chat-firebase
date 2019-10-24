@@ -1,4 +1,4 @@
-package com.example.chat_online_flutter
+package br.com.erikhenrq.chat
 
 import android.os.Bundle
 
